@@ -23,7 +23,7 @@ Module FortuneCookie
                 Console.WriteLine($"Work done hard is not always hard work done.")
             Case 1
                     randomNumberCount(1) += 1
-                Console.WriteLine($"The problems of yesterday show the accomplishments of today.")
+                Console.WriteLine($"Know when to relax and when to work.")
             Case 2
                     randomNumberCount(2) += 1
                 Console.WriteLine($"Time is nothing; Timing is everything.")
