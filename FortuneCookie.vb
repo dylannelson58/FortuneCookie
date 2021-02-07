@@ -13,7 +13,7 @@ Module FortuneCookie
         Dim randomNumberCount(5) As Integer
         Dim randomValue As Integer
 
-        Randomize()
+        Randomize()                         ' Initializes the randomizer, causes the randomValue to be random every iteration
         randomValue = CInt((3 * Rnd()))     ' Generate random value between 0 and 3.
 
             Select Case randomValue
